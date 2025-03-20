@@ -82,6 +82,23 @@
 2. **Data Streaming**:
     - The data streaming script will continuously fetch real-time stock data and store it in MongoDB.
 
+## Screenshots
+
+### Price Analysis
+![Price Analysis](https://via.placeholder.com/800x400?text=Price+Analysis+Screenshot)
+
+### Top Gainers & Losers
+![Top Gainers & Losers](https://via.placeholder.com/800x400?text=Top+Gainers+%26+Losers+Screenshot)
+
+### Volume Analysis
+![Volume Analysis](https://via.placeholder.com/800x400?text=Volume+Analysis+Screenshot)
+
+### Moving Averages
+![Moving Averages](https://via.placeholder.com/800x400?text=Moving+Averages+Screenshot)
+
+### RSI Analysis
+![RSI Analysis](https://via.placeholder.com/800x400?text=RSI+Analysis+Screenshot)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
