@@ -85,7 +85,7 @@
 ## Screenshots
 
 ### Price Analysis
-![Price Analysis](https://via.placeholder.com/800x400?text=Price+Analysis+Screenshot)
+![Price Analysis](images/Screenshot 2025-03-20 174548.png)
 
 ### Top Gainers & Losers
 ![Top Gainers & Losers](https://via.placeholder.com/800x400?text=Top+Gainers+%26+Losers+Screenshot)
